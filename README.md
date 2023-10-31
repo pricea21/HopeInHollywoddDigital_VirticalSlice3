@@ -1,6 +1,6 @@
 # HopeInHollywoddDigital_VirticalSlice3
 
-Play Me: 
+Play Me: https://pricea21.github.io/HopeInHollywoddDigital_VirticalSlice3/ 
 
  
 Puzzle Maze Tutorial: https://www.youtube.com/watch?v=yGidpBVWPx0 
